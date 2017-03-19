@@ -1,4 +1,4 @@
-#Stopwatch Timer
+# Stopwatch Timer
 
 Stopwatch Timer is a project written in JAVA that allows the user to spin up `n` stopwatches where `n` is a number that they provide. 
 
